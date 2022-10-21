@@ -1,5 +1,5 @@
 # PythonMiniProjectUpdated
-This programme still needs work but does not appear to produce any errors. The main body of the programme loops until the user choose to exit.  
+This programme still needs work but does not appear to produce any errors. The main body of the programme loops until the user chooses to exit.  
 
 The purpose of this program is to give the user a suggestion for a videogame to play, based off of the options that they select.
 
