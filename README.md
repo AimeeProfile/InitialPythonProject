@@ -1,4 +1,7 @@
 # PythonMiniProjectUpdated
+
+FOR AN UPDATED VERSION OF EVERYTHING IN THIS REPOSITORY SEE: FINALPYTHONPROJECT 
+
 This program still needs work but does not appear to produce any errors. The program can be launched from a single .py file. The main body of the program can be run without errors until the user terminates the program.  In the main body of the program, the user can navigate through multiple options which cause different lines of code to execute.
 
 The purpose of this program is to give the user a suggestion for a videogame to play, based off of the options that they select.
